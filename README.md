@@ -2,8 +2,11 @@
 
 ## Primera Part
 
-Es tracta d'editar el fitxer de la branca "master" amb netbeans. Has de clonar el repositori al teu Gihub. Un cop allà el descarregues amb NetBeans i cambies el text seguint la issue.
-
+ 1. Clonar el repositori al teu GitHub.
+ 2. Descarregar amb Netbeans
+ 3. Editar el fitxer de la branca "master" amb Netbeans.
+ 4. Fer un push
+ 5. Pau: fer Pull
 ## Segona Part
 
 Pas a pas.
